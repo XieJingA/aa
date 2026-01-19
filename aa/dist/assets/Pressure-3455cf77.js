@@ -1,0 +1,1 @@
+import{_ as t,a as c}from"./LineChart-778ac7d3.js";import{r as a,o,c as l,a as e,F as _}from"./index-5bb59aa5.js";const g={__name:"Pressure",setup(m){const s=a(20),r=a(19.37),n=a(3);return(u,i)=>(o(),l(_,null,[e(t,{set:s.value,real:r.value,warnings:n.value},null,8,["set","real","warnings"]),e(c)],64))}};export{g as default};
