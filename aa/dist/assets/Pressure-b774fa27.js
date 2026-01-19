@@ -1,0 +1,1 @@
+import{_ as t}from"./Card-b7335d74.js";import{_ as o}from"./LineChart-2280a837.js";import{r as e,o as c,c as l,a,F as _}from"./index-ad09f167.js";const v={__name:"Pressure",setup(m){const r=e(20),s=e(19.37),n=e(3);return(u,i)=>(c(),l(_,null,[a(t,{set:r.value,real:s.value,warnings:n.value},null,8,["set","real","warnings"]),a(o)],64))}};export{v as default};

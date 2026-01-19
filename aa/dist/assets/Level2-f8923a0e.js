@@ -1,0 +1,1 @@
+import{_ as t}from"./Card-b7335d74.js";import{_ as o}from"./LineChart-2280a837.js";import{r as e,o as c,c as l,a,F as _}from"./index-ad09f167.js";const v={__name:"Level2",setup(m){const r=e(5),s=e(9.81),n=e(2);return(i,u)=>(c(),l(_,null,[a(t,{set:r.value,real:s.value,warnings:n.value},null,8,["set","real","warnings"]),a(o)],64))}};export{v as default};

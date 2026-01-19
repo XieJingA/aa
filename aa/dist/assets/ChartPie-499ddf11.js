@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as _,d as t,a as o,i as r}from"./index-ad09f167.js";const n={class:"chart-view"},c={__name:"ChartPie",setup(d){return(i,e)=>(a(),_("div",n,[e[0]||(e[0]=t("h2",null,"饼图 (Pie Chart)",-1)),e[1]||(e[1]=t("p",null,"饼图用于展示各部分占整体的比例关系。",-1)),o(r)]))}},p=s(c,[["__scopeId","data-v-85488cdf"]]);export{p as default};

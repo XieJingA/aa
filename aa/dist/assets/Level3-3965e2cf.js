@@ -1,1 +1,0 @@
-import{_ as t,a as c}from"./LineChart-778ac7d3.js";import{r as a,o as l,c as o,a as e,F as _}from"./index-5bb59aa5.js";const g={__name:"Level3",setup(m){const s=a(20),n=a(21.97),r=a(2);return(u,i)=>(l(),o(_,null,[e(t,{set:s.value,real:n.value,warnings:r.value},null,8,["set","real","warnings"]),e(c)],64))}};export{g as default};

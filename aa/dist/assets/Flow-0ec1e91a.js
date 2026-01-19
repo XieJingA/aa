@@ -1,1 +1,0 @@
-import{_ as t,a as o}from"./LineChart-778ac7d3.js";import{r as a,o as c,c as l,a as e,F as _}from"./index-5bb59aa5.js";const g={__name:"Flow",setup(m){const s=a(23),n=a(22.56),r=a(3);return(u,i)=>(c(),l(_,null,[e(t,{set:s.value,real:n.value,warnings:r.value},null,8,["set","real","warnings"]),e(o)],64))}};export{g as default};

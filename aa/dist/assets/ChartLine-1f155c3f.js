@@ -1,0 +1,1 @@
+import{_ as s}from"./LineChart-2280a837.js";import{_,o as a,c as o,d as t,a as n}from"./index-ad09f167.js";const r={class:"chart-view"},c={__name:"ChartLine",setup(d){return(i,e)=>(a(),o("div",r,[e[0]||(e[0]=t("h2",null,"折线图 (Line Chart)",-1)),e[1]||(e[1]=t("p",null,"折线图用于展示数据随时间或其他连续变量的变化趋势。",-1)),n(s)]))}},m=_(c,[["__scopeId","data-v-1d52807c"]]);export{m as default};
