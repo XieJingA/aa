@@ -1,0 +1,1 @@
+import{_ as t}from"./Card-b7335d74.js";import{_ as o}from"./LineChart-2280a837.js";import{r as a,o as c,c as l,a as e,F as _}from"./index-ad09f167.js";const v={__name:"Valve1",setup(m){const r=a(85),s=a(84.12),n=a(2);return(i,u)=>(c(),l(_,null,[e(t,{set:r.value,real:s.value,warnings:n.value},null,8,["set","real","warnings"]),e(o)],64))}};export{v as default};

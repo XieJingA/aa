@@ -1,0 +1,1 @@
+import{_ as t}from"./Card-b7335d74.js";import{_ as o}from"./LineChart-2280a837.js";import{r as a,o as c,c as l,a as e,F as _}from"./index-ad09f167.js";const w={__name:"Flow",setup(m){const r=a(23),s=a(22.56),n=a(3);return(i,u)=>(c(),l(_,null,[e(t,{set:r.value,real:s.value,warnings:n.value},null,8,["set","real","warnings"]),e(o)],64))}};export{w as default};

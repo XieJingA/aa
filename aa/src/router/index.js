@@ -51,6 +51,37 @@ const router = createRouter({
       path: '/table',
       name: 'table',
       component: () => import('../views/Table.vue')
+    },
+    // 图表类型路由
+    {
+      path: '/chart/line',
+      name: 'chartLine',
+      component: () => import('../views/ChartLine.vue')
+    },
+    {
+      path: '/chart/bar',
+      name: 'chartBar',
+      component: () => import('../views/ChartBar.vue')
+    },
+    {
+      path: '/chart/pie',
+      name: 'chartPie',
+      component: () => import('../views/ChartPie.vue')
+    },
+    {
+      path: '/chart/scatter',
+      name: 'chartScatter',
+      component: () => import('../views/ChartScatter.vue')
+    },
+    {
+      path: '/chart/radar',
+      name: 'chartRadar',
+      component: () => import('../views/ChartRadar.vue')
+    },
+    {
+      path: '/chart/gauge',
+      name: 'chartGauge',
+      component: () => import('../views/ChartGauge.vue')
     }
   ]
 })

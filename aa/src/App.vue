@@ -39,6 +39,19 @@
               <el-menu-item index="/table"><el-icon><InfoFilled /></el-icon>异常数据记录</el-menu-item>
             </el-menu-item-group>
           </el-sub-menu>
+          <el-sub-menu index="5">
+            <template #title>
+              <h2>图表类型</h2>
+            </template>
+            <el-menu-item-group>
+              <el-menu-item index="/chart/line"><el-icon><TrendCharts /></el-icon>折线图</el-menu-item>
+              <el-menu-item index="/chart/bar"><el-icon><Histogram /></el-icon>柱状图</el-menu-item>
+              <el-menu-item index="/chart/pie"><el-icon><PieChart /></el-icon>饼图</el-menu-item>
+              <el-menu-item index="/chart/scatter"><el-icon><DataLine /></el-icon>散点图</el-menu-item>
+              <el-menu-item index="/chart/radar"><el-icon><Aim /></el-icon>雷达图</el-menu-item>
+              <el-menu-item index="/chart/gauge"><el-icon><Odometer /></el-icon>仪表盘</el-menu-item>
+            </el-menu-item-group>
+          </el-sub-menu>
           <el-sub-menu index="3">
             <template #title>
               <h2>用户管理</h2>
